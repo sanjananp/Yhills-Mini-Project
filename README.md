@@ -1,17 +1,19 @@
 # Task Tracker Tool
 
-A simple task tracker tool built using HTML, CSS, and JavaScript. This tool allows users to add, view, and manage tasks effectively.
+A simple and intuitive task tracker tool built using HTML, CSS, and JavaScript. This web application helps users manage their tasks efficiently by providing functionalities to add, view, edit, delete, and mark tasks as completed. It features a user-friendly interface with options to keep track of task statuses and streamline task management.
 
 ## Features
 
-- **Add Tasks:** Easily add new tasks with titles and descriptions.
-- **View Tasks:** See a list of all tasks with their current status.
-- **Edit Tasks:** Modify task details as needed.
-- **Delete Tasks:** Remove tasks that are no longer needed.
-- **Mark as Completed:** Track the completion status of tasks.
+- **Add Tasks:** Easily create new tasks with titles and descriptions.
+- **View Tasks:** Display a list of all tasks with their current status.
+- **Edit Tasks:** Update task details as needed.
+- **Delete Tasks:** Remove tasks that are no longer required.
+- **Mark as Completed:** Track tasks that have been completed.
 
-## Installation
+## Technologies Used
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/sanjananp/Yhills-mini-Project.git
+- **HTML:** Provides the structure of the application.
+- **CSS:** Styles the application for a clean and responsive layout.
+- **JavaScript:** Handles the interactivity and task management logic.
+
+For more details on how to use the tool, check the [Usage](#usage) section.
