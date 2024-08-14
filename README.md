@@ -17,3 +17,9 @@ A simple and intuitive task tracker tool built using HTML, CSS, and JavaScript. 
 - **JavaScript:** Handles the interactivity and task management logic.
 
 For more details on how to use the tool, check the [Usage](#usage) section.
+
+## Deployed Project
+https://sanjananp.github.io/Yhills-Mini-Project/
+
+
+
